@@ -1,0 +1,15 @@
+{
+  "conversation_title": "Hoc RAG voi Claude - buoi 09/2026",
+  "messages": [
+    {"role": "user", "content": "Buoi Git/GitHub hom nay coi nhu xong, buoc tiep theo la RAG."},
+    {"role": "assistant", "content": "RAG = Retrieval-Augmented Generation, ket hop tim kiem va sinh cau tra loi."},
+    {"role": "user", "content": "Vector database hoat dong the nao?"},
+    {"role": "assistant", "content": "Vector DB luu embedding va tim nhanh vector gan nhau bang thuat toan ANN."},
+    {"role": "user", "content": "Chunking la gi va vi sao can thiet?"},
+    {"role": "assistant", "content": "Chunking la chia van ban dai thanh doan nho truoc khi embedding, tranh vector bi mo nhoe."},
+    {"role": "user", "content": "SQL window function hoc chua?"},
+    {"role": "assistant", "content": "Da hoc xong ROW_NUMBER, RANK, va running SUM OVER ORDER BY."},
+    {"role": "user", "content": "Financial-transaction-analyzer dung thuat toan gi de phat hien outlier?"},
+    {"role": "assistant", "content": "Dung ca mean+2xstd va IQR, vi mean+std co masking effect khi outlier lon."}
+  ]
+}
